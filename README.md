@@ -72,5 +72,5 @@ super-trunfo-f1/
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome]** — Engenharia de Software, UNISATC  
+Desenvolvido por **Luiz Coral** — Engenharia de Software, UNISATC  
 Professor: Thyerri Mezzari
